@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**JunjieY66/JunjieY66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tiany(Junjie) Yuan, an film engineer working on Film Restoration, Movie Production, \etc. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Work Experience
+
+- principal of Film Restoration Lab , SFTP(Shanghai Film Restoration Plant).
+
+
+
+## Connect
+
+- 4K "AShiMa" restored by Our Team [https://mp.weixin.qq.com/s/gxf_Bj7Q3Ivn0qK9iKQnQg](https://mp.weixin.qq.com/s/gxf_Bj7Q3Ivn0qK9iKQnQg)
+
+- Our Restoration Lab Introduction Blog: [https://mp.weixin.qq.com/s/6y4-Q8A_oegKZtGDIMywwQ](https://mp.weixin.qq.com/s/6y4-Q8A_oegKZtGDIMywwQ)
+
+
+
+## Contact
+
+- SFTP Official: sftp_yuanjunjie@outlook.com
+
+
+
